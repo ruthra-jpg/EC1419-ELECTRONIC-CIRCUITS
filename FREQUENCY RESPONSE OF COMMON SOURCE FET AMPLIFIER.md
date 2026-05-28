@@ -1,4 +1,4 @@
-<img width="778" height="362" alt="image" src="https://github.com/user-attachments/assets/292f7550-a5f2-4c14-8185-0a9d1feb3ca2" />
+ DB<img width="778" height="362" alt="image" src="https://github.com/user-attachments/assets/292f7550-a5f2-4c14-8185-0a9d1feb3ca2" />
 <img width="890" height="616" alt="image" src="https://github.com/user-attachments/assets/9c2f6067-2542-4138-b3d1-5650f3adb5ef" />
 <img width="907" height="771" alt="image" src="https://github.com/user-attachments/assets/fcfbc3b4-35be-4ebb-ab42-9ac7865f079c" />
 <img width="865" height="553" alt="image" src="https://github.com/user-attachments/assets/b73a0362-39e9-47e4-9650-dfcee3c5f689" />
@@ -8,9 +8,15 @@
 
 
 # Tabulation with readings
-![WhatsApp Image 2025-11-22 at 00 00 45_08e3e07f](https://github.com/user-attachments/assets/d47c52a2-33c4-4aa5-9923-82ab1cbaec20)
+![WhatsApp Image 2026-04-01 at 5 19 02 PM (1)](https://github.com/user-attachments/assets/c81e6b49-ec2c-4fbc-bc72-2166e75c2984)
 
 ## Semilog plotted Graph
-![WhatsApp Image 2025-11-22 at 00 01 17_0d25cf48](https://github.com/user-attachments/assets/f2e34f00-860c-4946-998e-dd6760529f82)
+![WhatsApp Image 2026-04-01 at 5 19 03 PM (1)](https://github.com/user-attachments/assets/e1aebfb1-01d9-4f79-902b-1d5c4f9d873d)
 
-![WhatsApp Image 2025-11-22 at 00 07 32_e5de16e7](https://github.com/user-attachments/assets/d1097927-c7ba-4eab-abe4-85779824ecbe)
+## Result :
+##        The common source amplifier was constructed and the 
+## following results were observed.
+##        1. Gain of the amplifier = 20 dB
+##        2. Bandwidth of the amplifier = 99.95 KHz
+##        3. Gain - Bandwidth product = 1MHz
+
