@@ -1,5 +1,4 @@
-## Expriment No 2
-
+## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -14,14 +13,18 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
+## Calculation
+![WhatsApp Image 2025-11-24 at 08 55 28_fa162d63](https://github.com/user-attachments/assets/1032756f-6d5d-4091-8452-2926da311a51)
+
 ## Graph
-
-![e2](https://github.com/user-attachments/assets/5b2d83ba-9c95-4548-8ef4-4898de7e7e4d)
-
-
+![WhatsApp Image 2025-11-24 at 08 55 25_b56d0bc7](https://github.com/user-attachments/assets/59b59536-c83f-4473-ba39-1a6f431dffdf)
+![WhatsApp Image 2025-11-24 at 08 55 22_bb8dab7f](https://github.com/user-attachments/assets/081fc3c2-077a-462d-9212-09e8072ed0e7)
+<img width="961" height="497" alt="image" src="https://github.com/user-attachments/assets/7ccf072f-fd2f-4f7b-88bd-e646e4c0726a" />
+<img width="1283" height="672" alt="image" src="https://github.com/user-attachments/assets/2e4888a3-4c1e-448b-8686-ba7fd9f93e15" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical Frequency of Oscillation = 150 Hz
+Practical frequency of Oscillation = 50Hz
 
-Theoretical Frequency of Oscillation = 159 Hz
+
+Theoritical Frequency of Oscillation = 100.14Hz
